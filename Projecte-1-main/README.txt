@@ -1,0 +1,13 @@
+-Els guions de base de dades estan  Projecte-1 > GUINONS SQL-MILA-SPOTIFY
+-Funcionament : 
+  -Es pot afegir canço/album
+  -Es pot modificar canço/album
+  -Eliminar productes 
+  -Filtrar producte 
+  -Misstagges via Joptionpane de cualsevol accioque fa l'usuari
+-Altres : 
+ -No he pogut crear el .bat
+ -No funciona el crud de llista per no controlar be les durades de productes de llista 
+ -El programa a vegades peta pero cuan es torni a engegar no peta 
+ -No es pot modificar la llista 
+ -iReport no esta fet.
