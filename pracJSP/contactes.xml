@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE contactes SYSTEM "contactes.dtd">
+<contactes>
+  <contacte categoria="Institut">
+    <nom>abdelbari</nom>
+    <cognoms>elharrak</cognoms>
+    <Adreça>Sant Miquel </Adreça>
+    <correu>abdelbarie@gmail.com</correu>
+    <telefon>631088138</telefon>
+  </contacte>
+  <contacte categoria="Trabajo">
+    <nom>pol</nom>
+    <cognoms>garcia</cognoms>
+    <Adreça>adrecapol</Adreça>
+    <correu>pol@gmail.com</correu>
+    <telefon>631088138</telefon>
+  </contacte>
+  <contacte categoria="Gym">
+    <nom>monaim</nom>
+    <cognoms>elharrak</cognoms>
+    <Adreça>monaim aderça</Adreça>
+    <correu>monaim@gmail.com</correu>
+    <telefon>631088138</telefon>
+  </contacte>
+  <contacte categoria="Familiar">
+    <nom>Mohamed</nom>
+    <cognoms>El Harrak</cognoms>
+    <Adreça>Hay Branes Kadima</Adreça>
+    <correu>mohamed@gmail.com</correu>
+    <telefon>631088138</telefon>
+  </contacte>
+  <contacte categoria="Familiar">
+    <nom>Mi Padre</nom>
+    <cognoms>EL Harrak</cognoms>
+    <Adreça>Hay Branes Kadima</Adreça>
+    <correu>ahmed@gmail.com</correu>
+    <telefon>661758090</telefon>
+  </contacte>
+  <contacte categoria="Trabajo">
+    <nom>Jullia</nom>
+    <cognoms>Gonzalez</cognoms>
+    <Adreça>C/Sant Juan</Adreça>
+    <correu>julia@gmail.com</correu>
+    <telefon>987654321</telefon>
+  </contacte>
+  <contacte categoria="Gym">
+    <nom>Pablo</nom>
+    <cognoms>Ramon</cognoms>
+    <Adreça>C/Sant Josep</Adreça>
+    <correu>pablo@gmail.com</correu>
+    <telefon>786965340</telefon>
+  </contacte>
+  <contacte categoria="Institut">
+    <nom>marc</nom>
+    <cognoms>brufau</cognoms>
+    <Adreça>C/igualada</Adreça>
+    <correu>marc@gmail.com</correu>
+    <telefon>123456789</telefon>
+  </contacte>
+</contactes>
